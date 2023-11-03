@@ -1,1 +1,0 @@
-{"version":3,"file":"msgObj.js","sourceRoot":"","sources":["../../../src/api/utils/msgObj.ts"],"names":[],"mappings":";AAAA,MAAM,QAAQ,GAAG;IACb,cAAc,EAAE,iBAAiB;IACjC,eAAe,EAAE,oBAAoB;IACrC,cAAc,EAAE,2BAA2B;IAC3C,YAAY,EAAE,6BAA6B;IAC3C,eAAe,EAAE,sBAAsB;IACvC,YAAY,EAAE,iBAAiB;IAC/B,OAAO,EAAE,sBAAsB;CAClC,CAAA;AACD,MAAM,CAAC,OAAO,GAAG,QAAQ,CAAA"}

@@ -1,1 +1,0 @@
-{"version":3,"file":"encodedOdf.js","sourceRoot":"","sources":["../../../src/api/utils/encodedOdf.ts"],"names":[],"mappings":";;;AAAO,MAAM,OAAO,GAAG,CAAC,SAAiB,EAAE,EAAE;IACzC,IAAI,gBAAgB,GAAG,MAAM,CAAC,IAAI,CAAC,SAAS,EAAE,OAAO,CAAC,CAAC,QAAQ,CAAC,KAAK,CAAC,CAAA;IACtE,OAAO,gBAAgB,CAAA;AAC3B,CAAC,CAAA;AAHY,QAAA,OAAO,WAGnB"}

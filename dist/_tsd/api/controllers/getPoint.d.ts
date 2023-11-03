@@ -1,1 +1,0 @@
-//# sourceMappingURL=getPoint.d.ts.map

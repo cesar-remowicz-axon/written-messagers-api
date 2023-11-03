@@ -1,1 +1,0 @@
-{"version":3,"file":"motives.d.ts","sourceRoot":"","sources":["../../../../src/api/controllers/motives.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAK5C,MAAM,CAAC,OAAO,OAAO,OAAO;;WAIJ,cAAc,CAAC,GAAG,EAAE,OAAO,EAAE,GAAG,EAAE,QAAQ,GAAG,OAAO,CAAC,QAAQ,CAAC;QAAE,CAAC,GAAG,EAAE,MAAM,GAAG,MAAM,CAAA;KAAE,CAAC,CAAC;CA4ChH"}

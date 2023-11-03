@@ -1,1 +1,0 @@
-{"version":3,"file":"motivesInterface.d.ts","sourceRoot":"","sources":["../../../../src/api/interfaces/motivesInterface.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,WAAW,QAAQ;IAC7B,WAAW,EAAE,MAAM,CAAC;IACpB,kBAAkB,EAAE,MAAM,CAAC;IAC3B,WAAW,EAAE,MAAM,CAAC;IACpB,aAAa,EAAE,MAAM,CAAC;CACzB"}

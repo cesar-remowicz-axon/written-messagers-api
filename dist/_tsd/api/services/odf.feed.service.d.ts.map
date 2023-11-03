@@ -1,1 +1,0 @@
-{"version":3,"file":"odf.feed.service.d.ts","sourceRoot":"","sources":["../../../../src/api/services/odf.feed.service.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAQ5C,MAAM,CAAC,OAAO,OAAO,gBAAgB;IAEpB,IAAI,CACb,GAAG,EAAE,OAAO,EACZ,GAAG,EAAE,QAAQ,GACd,OAAO,CAAC,MAAM,CAAC,MAAM,EAAE,GAAG,CAAC,CAAC;CAoRlC"}

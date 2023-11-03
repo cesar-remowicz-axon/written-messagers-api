@@ -1,2 +1,0 @@
-export declare const insertIntoNewOrder: (chosenOption: number | string, NUMERO_ODF: any, NUMERO_OPERACAO: any, CODIGO_MAQUINA: any, QTDE_ODF: number, released: number, totalValue: number, badFeed: any, valorFeed: number, reworkFeed: number, missingFeed: number, CODIGO_PECA: any, CODIGO_CLIENTE: any, FUNCIONARIO: any, REVISAO: any) => Promise<string | undefined>;
-//# sourceMappingURL=insertNewOrder.d.ts.map

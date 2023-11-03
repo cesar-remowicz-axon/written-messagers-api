@@ -1,1 +1,0 @@
-{"version":3,"file":"unravelOdfInterface.d.ts","sourceRoot":"","sources":["../../../../src/api/interfaces/unravelOdfInterface.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,WAAW,WAAW;IAChC,UAAU,CAAC,EAAE,MAAM,CAAC;IACpB,eAAe,CAAC,EAAE,MAAM,GAAG,MAAM,CAAC;IAClC,cAAc,CAAC,EAAE,MAAM,CAAC;CAC3B"}

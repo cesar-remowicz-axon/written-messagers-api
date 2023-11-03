@@ -1,1 +1,0 @@
-{"version":3,"file":"odf.search.service.d.ts","sourceRoot":"","sources":["../../../../../src/api/services/odf/odf.search.service.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAG5C,MAAM,CAAC,OAAO,OAAO,gBAAgB;IAEpB,MAAM,CACf,GAAG,EAAE,OAAO,EACZ,GAAG,EAAE,QAAQ,GACd,OAAO,CAAC,QAAQ,CAAC,MAAM,EAAE,GAAG,CAAC,CAAC;CA6BpC"}

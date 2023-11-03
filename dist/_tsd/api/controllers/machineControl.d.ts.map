@@ -1,1 +1,0 @@
-{"version":3,"file":"machineControl.d.ts","sourceRoot":"","sources":["../../../../src/api/controllers/machineControl.ts"],"names":[],"mappings":"AAMA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAE5C,MAAM,CAAC,OAAO,OAAO,OAAO;WAEJ,OAAO,CAAC,GAAG,EAAE,OAAO,EAAE,GAAG,EAAE,QAAQ,GAAG,OAAO,CAAC,MAAM,CAAC,MAAM,EAAE,GAAG,CAAC,CAAC;CAmFzF"}

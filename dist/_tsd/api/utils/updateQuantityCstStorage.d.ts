@@ -1,2 +1,0 @@
-export declare const insertHisrealAndCstEstoque: (QTDE_LIB: any, address: any, codigoPeca: any, NUMERO_ODF: string, goodFeed: any, FUNCIONARIO: any, hostname: any, ip: any, codigoFilho?: any) => Promise<string | null>;
-//# sourceMappingURL=updateQuantityCstStorage.d.ts.map

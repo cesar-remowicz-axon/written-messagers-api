@@ -1,1 +1,0 @@
-{"version":3,"file":"codePointInterface.d.ts","sourceRoot":"","sources":["../../../../src/api/interfaces/codePointInterface.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,WAAW,YAAY;IACjC,IAAI,CAAC,EAAE,MAAM,GAAG,IAAI,CAAC;IACrB,QAAQ,CAAC,EAAE,MAAM,GAAG,IAAI,CAAC;IACzB,QAAQ,CAAC,EAAE,MAAM,GAAG,IAAI,CAAC;IACzB,IAAI,CAAC,EAAE,GAAG,CAAC;CACd"}
