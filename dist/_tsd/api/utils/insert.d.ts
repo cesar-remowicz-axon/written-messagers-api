@@ -1,0 +1,2 @@
+export declare const insertInto: (pointedCode: number[], funcionario: string, numOdf: number | string, codPeca: string, revisao: string, numOper: string | number, codMaq: string, qtdLib: number | null, goodFeed: number | null, badFeed: number | null, pointedCodeDescription: string[], _tempoDecorrido: number, motives: string | null, missingFeed: number | null, reworkFeed: number | null) => Promise<string>;
+//# sourceMappingURL=insert.d.ts.map

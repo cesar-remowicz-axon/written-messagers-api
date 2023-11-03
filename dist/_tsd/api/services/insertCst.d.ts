@@ -1,0 +1,2 @@
+export declare const insertCst: (funcionario: string, numeroOdf: number, codigoPeca: string, revisao: string, numeroOperacao: string, codigoFilho: string, i: number) => Promise<number[] | null>;
+//# sourceMappingURL=insertCst.d.ts.map

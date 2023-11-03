@@ -1,0 +1,1 @@
+{"version":3,"file":"getUserData.controllers.js","sourceRoot":"","sources":["../../../src/api/controllers/getUserData.controllers.ts"],"names":[],"mappings":";;;;;AACA,oFAA+D;AAE/D,MAAqB,QAAQ;IAElB,MAAM,CAAC,KAAK,CAAC,IAAI,CAAC,GAAY,EAAE,GAAa;QAChD,OAAO,IAAI,0BAAmB,EAAE,CAAC,IAAI,CAAC,GAAG,EAAE,GAAG,CAAC,CAAA;IACnD,CAAC;CAEJ;AAND,2BAMC"}
