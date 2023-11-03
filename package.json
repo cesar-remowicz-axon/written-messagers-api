@@ -8,7 +8,8 @@
     "start": "node ./dist/www",
     "start:demo": "node ./dist/www",
     "dev": "nodemon -L ./dist/www",
-    "tsc": "tsc"
+    "tsc": "tsc",
+    "build" : "tsc"
   },
   "keywords": [],
   "author": "",
